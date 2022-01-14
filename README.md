@@ -18,6 +18,7 @@ Learning hands-on Experience
 • Natural Language Processing: CoreNLTK, Textblob,Sentiment
 </h4>
 <h3 align="left">Languages and Tools:</h3>
+<h4>Azure Synapse Analytics | Azure Stream Analytics | Azure Analytic Tools | Azure Databricks | Azure Data Factory | Azure Blob | Azure Data Lake Storage |Azure SQL Database</h4>
 <img  src="" alt="ashfaq05" />
 
 <table>
