@@ -19,7 +19,7 @@ Learning hands-on Experience
 </h4>
 <h3 align="left">Languages and Tools:</h3>
 <h4>Azure Synapse Analytics | Azure Stream Analytics | Azure Analytic Tools | Azure Databricks | Azure Data Factory | Azure Blob | Azure Data Lake Storage |Azure SQL Database</h4>
-<img  src="" alt="ashfaq05" />
+<img  src="https://media-exp1.licdn.com/dms/image/C511BAQF3WF0w7JoNSQ/company-background_10000/0/1524639094335?e=1642244400&v=beta&t=UexkHY3bjbI9Wyr1-rvrcaHcwxE0D0YZd6ST1nzNnt4" alt="ashfaq05" />
 
 <table>
   <tr>
