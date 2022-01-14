@@ -23,8 +23,8 @@ Learning hands-on Experience
 
 <table>
   <tr>
-    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaq05&show_icons=true&locale=en&layout=compact" alt="ashfaq05" /></td>
     <td><img  src="https://github-readme-stats.vercel.app/api?username=ashfaq05&show_icons=true&locale=en" alt="ashfaq05" /></td>
+    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaq05&show_icons=true&locale=en&layout=compact" alt="ashfaq05" /></td>
     <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq05&" alt="ashfaq05" /></td>
   </tr>
  </table>
