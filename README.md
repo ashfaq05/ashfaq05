@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashfaq</h1>
 <h3 align="center">A passionate Data Engineer work in Azure cloud ☁ </h3>
 
+<ReactFitText compressor={0.1}>
+  <h6>
+    <Clock format="HH:mm:ss" interval={1000} ticking={true} />
+  </h6>
+</ReactFitText>
+
 <h4>
 A Data Engineers with in-depth knowledge of model-building, statistics, and ETL, ELT. identifying and integrating datasets and using this information to interpret trends and patterns, visualizing to draw insights, develop ML models and communicate the same to stakeholders.
 
