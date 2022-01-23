@@ -1,3 +1,12 @@
+
+<table>
+  <tr>
+    <td><img  src="https://github-readme-stats.vercel.app/api?username=ashfaq05&show_icons=true&locale=en" alt="ashfaq05" /></td>
+    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaq05&show_icons=true&locale=en&layout=compact" alt="ashfaq05" /></td>
+    <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq05&" alt="ashfaq05" /></td>
+  </tr>
+ </table>
+ 
 <h1 align="center">Hi 👋, I'm Ashfaq</h1>
 <h3 align="center">A passionate Data Engineer work in Azure cloud ☁ </h3>
 
@@ -25,20 +34,12 @@ Learning hands-on Experience
 </h4>
 <h3 align="left">Languages and Tools:</h3>
 <h4>Azure Synapse Analytics | Azure Stream Analytics | Azure Analytic Tools | Azure Databricks | Azure Data Factory | Azure Blob | Azure Data Lake Storage |Azure SQL Database</h4>
-<img  src="https://media-exp1.licdn.com/dms/image/C511BAQF3WF0w7JoNSQ/company-background_10000/0/1524639094335?e=1642244400&v=beta&t=UexkHY3bjbI9Wyr1-rvrcaHcwxE0D0YZd6ST1nzNnt4" alt="ashfaq05" />
 
-<table>
-  <tr>
-    <td><img  src="https://github-readme-stats.vercel.app/api?username=ashfaq05&show_icons=true&locale=en" alt="ashfaq05" /></td>
-    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaq05&show_icons=true&locale=en&layout=compact" alt="ashfaq05" /></td>
-    <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq05&" alt="ashfaq05" /></td>
-  </tr>
- </table>
+
  
- 
-<table>
+<table align="right">
   <tr>
-    <td>📑� Know about my experiences</td>
+    <td>📑Know about my experiences</td>
     <td><p align="right"><a href="https://www.linkedin.com/in/ashfaq-pathan-a0b746128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfaq-pathan" height="30" width="40" /></a>
 </p></td>
  </table>
